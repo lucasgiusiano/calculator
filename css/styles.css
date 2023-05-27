@@ -9,8 +9,8 @@ body{
 
 .screen{
     background-color: #C6CACA;
-    width: 500px;
-    height: 100px;
+    width: 450px;
+    height: 90px;
     font-size: 30px;
     font-weight: bolder;
 }
@@ -34,8 +34,8 @@ body{
 .igual{
     border: none;
     border-radius: 50px;
-    width: 220px;
-    height: 100px;
+    width: 200px;
+    height: 90px;
     background-color: whitesmoke;
     color: blueviolet;
     margin: 10px;
