@@ -80,7 +80,6 @@ window.addEventListener("DOMContentLoaded", ()=>{
         calcular();
     });
     
-    
     document.querySelector("#clear").addEventListener("click",()=>{
         document.querySelector("#result").innerHTML = "";
         cuenta = "";

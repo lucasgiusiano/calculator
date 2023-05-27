@@ -1,3 +1,7 @@
+body{
+    overflow: hidden;
+}
+
 .fa-calculator{
     color: blueviolet;
 
@@ -18,8 +22,8 @@
 .number{
     border: none;
     border-radius: 50px;
-    width: 100px;
-    height: 100px;
+    width: 90px;
+    height: 90px;
     background-color: blueviolet;
     color: whitesmoke;
     margin: 10px;
